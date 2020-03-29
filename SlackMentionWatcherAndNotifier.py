@@ -104,7 +104,7 @@ def sending_sms_message (email, emailPassword, smsCarrierGateway, emailSmtpServe
 
 
 # Send SMS message to cell phone if messaged or mentioned
-carrierToUse = (create_carrier_specific_gateway_address("9167124601", "T-Mobile"))
+carrierToUse = (create_carrier_specific_gateway_address("1852869525", "T-Mobile"))
 print("Carrier gatewary is: " + carrierToUse)
 sendersEmailAddress = ""
 sendersEmailPassword = ""
