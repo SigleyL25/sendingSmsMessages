@@ -1,2 +1,2 @@
-# Sedning SMS messages
+# Sending SMS messages
 Based upon your carrier send SMS messages. 
