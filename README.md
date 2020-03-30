@@ -1,2 +1,2 @@
-# SlackWatcher
-App checks Slack userID and sends SMS message if messaged. 
+# Sedning SMS messages
+Based upon your carrier send SMS messages. 
